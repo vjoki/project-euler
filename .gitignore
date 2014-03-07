@@ -1,4 +1,3 @@
-build/*/
 bin/
 CMakeCache.txt
 Makefile
